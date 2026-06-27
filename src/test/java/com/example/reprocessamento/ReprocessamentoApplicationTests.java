@@ -1,10 +1,10 @@
-package com.reprocessamento.xml;
+package com.example.reprocessamento;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class XmlApplicationTests {
+class ReprocessamentoApplicationTests {
 
 	@Test
 	void contextLoads() {

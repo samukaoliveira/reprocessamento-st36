@@ -1,13 +1,13 @@
-package com.reprocessamento.xml;
+package com.example.reprocessamento;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class XmlApplication {
+public class ReprocessamentoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(XmlApplication.class, args);
+		SpringApplication.run(ReprocessamentoApplication.class, args);
 	}
 
 }
