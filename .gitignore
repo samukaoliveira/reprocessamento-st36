@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Spring / Java
+target/
+build/
+out/
+
+# OS
+.DS_Store
+
+#Outros
+*.db
+teste.xml
