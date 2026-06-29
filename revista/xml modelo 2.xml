@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!DOCTYPE br-patent-document SYSTEM "br-patent-document-v1-4.dtd">
+  <br-patent-document id="BR102012031039" file="BR102012031039.xml" doc-number="BR102012031039" kind="B1" date-published="20260609" country="BR" lang="pt">
+    <bibliographic-data id="bibl" country="BR" lang="pt"/>
+    <publication-reference>
+      <document-id lang="pt">
+        <country>BR</country>
+        <doc-number>102012031039</doc-number>
+        <kind>B1</kind>
+        <date>20260609</date>
+      </document-id>
+    </publication-reference>
+    <classification-ipcr>
+      <classification-ipc sequence="1">
+        <section>C</section>
+        <class>08</class>
+        <subclass>G</subclass>
+        <main-group>18</main-group>
+        <subgroup>00</subgroup>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+      </classification-ipc>
+      <classification-ipc sequence="2">
+        <section>C</section>
+        <class>08</class>
+        <subclass>G</subclass>
+        <main-group>18</main-group>
+        <subgroup>10</subgroup>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <symbol-position/>
+        <classification-value>I</classification-value>
+      </classification-ipc>
+      <classification-ipc sequence="3">
+        <section>C</section>
+        <class>08</class>
+        <subclass>G</subclass>
+        <main-group>18</main-group>
+        <subgroup>28</subgroup>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <symbol-position/>
+        <classification-value>I</classification-value>
+      </classification-ipc>
+    </classification-ipcr>
+    <application-reference appl-type="National Application">
+      <document-id>
+        <country>BR</country>
+        <doc-number>102012031039</doc-number>
+        <kind>B</kind>
+        <date>20121205</date>
+      </document-id>
+    </application-reference>
+    <priority-claims>
+      <priority-claim sequence="1" kind="international">
+        <country>US</country>
+        <doc-number>61/568702</doc-number>
+        <date>20111209</date>
+      </priority-claim>
+    </priority-claims>
+    <parties>
+      <applicants>
+        <applicant sequence="1" designation="all" app-type="applicant">
+          <addressbook>
+            <orgname>ARKEMA FRANCE</orgname>
+            <address>
+              <street>51 ESPLANADE DU GÉNÉRAL DE GAULLE LA DÉFENSE 92800 PUTEAUX</street>
+              <country>FR</country>
+            </address>
+          </addressbook>
+          <residence>
+            <country>FR</country>
+          </residence>
+        </applicant>
+        <applicant sequence="2" designation="all" app-type="applicant">
+          <addressbook>
+            <name>ROHM AN HAAS COMPANY</name>
+            <address>
+              <street>100 INDEPENDENCE MALL WEST, PHILADELPHIA, PENNSYLVANIA 19106-2399</street>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor sequence="1" designation="all">
+          <addressbook>
+            <name>Amira Avril Marine</name>
+            <address>
+              <street>620 HUNTINGTON COURT, ALGONQUIN, ILLINOIS 60102</street>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </inventor>
+      </inventors>
+      <inventors>
+        <inventor sequence="2" designation="all">
+          <addressbook>
+            <name>David E. Vietti</name>
+            <address>
+              <street>49 MOHAWK, CARY, ILLINOIS 60013</street>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </inventor>
+      </inventors>
+      <inventors>
+        <inventor sequence="3" designation="all">
+          <addressbook>
+            <name>Joseph J. Zupancic</name>
+            <address>
+              <street>141 STABLEFORD DRIVE, GLEN ELLYN, ILLINOIS 60137</street>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </inventor>
+      </inventors>
+      <inventors>
+        <inventor sequence="4" designation="all">
+          <addressbook>
+            <name>Larry F. Brinkman</name>
+            <address>
+              <street>11616 HALMA LANE, WOODSTOCK, ILLINOIS 60098</street>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook>
+            <orgname>Kasznar Leonardos Propriedade Intelectual</orgname>
+            <address>
+              <street>RUA TEÓFILO OTONI, 63 / 5º AO 8º ANDAR</street>
+              <postcode>20090-080</postcode>
+              <city></city>
+              <state>RJ</state>
+              <country>BR</country>
+            </address>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <invention-title lang="pt">pré-polímero terminado com isocianato, e, sistema de
+uretano de dois componentes</invention-title>
+    <abstract lang="pt">
+      <p>pré-polímero terminado com isocianato, e, sistema de uretano de dois componentes. 
+um pré-polímero terminado com isocianato tendo três componentes. o primeiro componente é 30-60% em peso de resíduos polimerizados de um primeiro poliol contendo um substituinte de fórmula (i) ligado via ligação simples de carbono-carbono em um átomo de carbono saturado em um grupo hidrocarbila de ácido graxo; em que r1 e r2 são resíduos esterificados de dióis alifáticos ou cicloalifáticos; e em que o primeiro poliol contém : (i) de 0,33 a 0,4 unidades de fórmula (i) por grupo hidrocarbila de ácido graxo, e (ii) de 0% a 12% em peso de resíduos esterificados de pelo menos um anidrido c4-c12, um diácido c4-c12 ou uma lactona c4- c12, não incluindo unidades de fórmula (i) ligadas em um grupo hidrocarbila de ácido graxo; e em que o primeiro poliol tem um número de hidroxila de 75 a 150 mg de koh/g. o segundo componente é 50-55% em peso de resíduos polimerizados de difenil-metano-diisocianato. o terceiro componente é 0-20% em peso de resíduos polimerizados de um glicol tendo mn de 300 a 3.500.</p>
+    </abstract>
+  </br-patent-document>

@@ -13,24 +13,16 @@ import lombok.Setter;
 @XmlAccessorType(XmlAccessType.FIELD)
 public class EventoDTO {
 
-    @XmlElement(name = "document-id")
-    private DocumentId documentId;
+    @XmlElement(name = "publication-reference")
+    private PublicationReferenceDTO publicationReferenceDTO;
 
-    @Getter
-    @Setter
-    @XmlAccessorType(XmlAccessType.FIELD)
-    public static class DocumentId {
+    @XmlElement(name = "parties")
+    private PartiesDTO partiesDTO;
 
-        @XmlElement(name = "country")
-        private String country;
+    @XmlElement(name = "invention-title")
+    private String titulo;
 
-        @XmlElement(name = "doc-number")
-        private String docNumber;
+    @XmlElement(name = "abstract ")
+    private String descricao;
 
-        @XmlElement(name = "kind")
-        private String kind;
-
-        @XmlElement(name = "date")
-        private String date;
-    }
 }
